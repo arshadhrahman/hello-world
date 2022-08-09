@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Think learning, think Zintrox </h1>
+   <h1> Full course click here </h1>
 
   
 </form>
