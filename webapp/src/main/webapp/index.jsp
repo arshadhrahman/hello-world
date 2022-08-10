@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Full course click here </h1>
+   <h1> docker image will be pushed to AWS ECR automatically from Jenkins </h1>
 
   
 </form>
