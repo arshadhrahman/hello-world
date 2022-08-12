@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> docker image will be pushed to AWS ECR automatically from Jenkins </h1>
+   <h1> run a container on docker server using Jenkins via ansbile </h1>
 
   
 </form>
