@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> run a container on docker server using Jenkins via ansbile - redeploying.... </h1>
+   <h1> on kubernetes.... </h1>
 
   
 </form>
